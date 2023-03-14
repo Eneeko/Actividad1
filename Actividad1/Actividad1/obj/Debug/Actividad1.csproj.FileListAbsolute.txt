@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.Form1.resources
+C:\Users\Admin\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\Admin\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\Admin\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\Admin\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.exe
+C:\Users\Admin\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.pdb
+C:\Users\Admin\source\repos\Actividad1\Actividad1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Admin\source\repos\Actividad1\Actividad1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Admin\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CopyComplete
